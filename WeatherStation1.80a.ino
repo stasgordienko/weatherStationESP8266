@@ -47,8 +47,8 @@ char PASSWORD [] = "e1q9wf2v"; // Here, you must change it to yours
 //const char* password = "sunshine";
 
 const int ssidCount = 3;
-const char* ssid[ssidCount] = {"glide", "weather", "OpenWrt"};
-const char* password[ssidCount] = {"sunshine", "12345678", "porozit46"};
+const char* ssid[ssidCount] = {"glider123", "weather9", "OpenWrt32"};
+const char* password[ssidCount] = {"12345678", "12345678", "12345678"};
 
 //const int led = 0; //D3
 //cannot use //15  //D8
